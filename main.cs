@@ -1,5 +1,5 @@
 // Lab No.1 Project No.2
-//File Name : myFirstProgram.cs
+//File Name : main.cs
 //@author : Joshua Um
 //Date : August 30 2021
 
