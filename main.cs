@@ -1,3 +1,19 @@
+// Lab No.1 Project No.2
+//File Name : myFirstProgram.cs
+//@author : Joshua Um
+//Date : August 30 2021
+
+//Problem Statement: calculate maximum amount of candy bars and gumballs with a set amount of coupons.
+
+//Overall Plan:
+// 1. Assign a variable with amount of coupons won.
+// 2. Calculate number of candy bars  (coupons / 10).
+// 3. Calculate coupons remaining after candy bars (coupons % 10).
+// 4. Calculate number of gumballs (coupons_after_candyBars / 3).
+// 5. Calculate coupons remaining after candy bars (coupons_after_candyBars % 3).
+// 6. Print results.
+
+
 using System;
 
 class Program {
